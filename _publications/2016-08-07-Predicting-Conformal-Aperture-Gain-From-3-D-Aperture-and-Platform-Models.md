@@ -1,7 +1,8 @@
 ---
 title: "Predicting Conformal Aperture Gain From 3-D Aperture and Platform Models"
 collection: publications
-permalink: publications/2016-08-07-Predicting-Conformal-Aperture-Gain-From-3-D-Aperture-and-Platform-Models.
+permalink: publication/2016-08-07-Predicting-Conformal-Aperture-Gain-From-3-D-Aperture-and-Platform-Models.
+excerpt: 'This paper is about predicting the on platform performance envelope for conformal antenna arrays'
 date: 2016-08-07
 venue: 'IEEE Antennas and Wireless Propagation Letters'
 citation: `T. Pelham, G. Hilton, E. Mellios and R. Lewis, &quot;Predicting Conformal Aperture Gain From 3-D Aperture and Platform Models&quot; <i>IEEE Antennas and Wireless Propagation Letters, vol. 16, pp. 700-703, 2017, doi: 10.1109/LAWP.2016.2600403 <\i>.'
