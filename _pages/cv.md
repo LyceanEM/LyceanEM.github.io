@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Cert H.E. in Cybernetics, University of Reading, 2004
-* M.Phys. in Physics, University of Surrey, 2009
 * Ph.D in Electrical Engineering, University of Bristol, 2018
+* M.Phys. in Physics, University of Surrey, 2009
+* Cert H.E. in Cybernetics, University of Reading, 2004
 
 Work experience
 ======
@@ -26,17 +26,16 @@ Work experience
   * MBDA
   * Duties included: Radar and Communications Systems modelling and measurement
 
-  
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
- 
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
