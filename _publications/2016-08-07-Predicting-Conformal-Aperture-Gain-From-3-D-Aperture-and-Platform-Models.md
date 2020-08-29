@@ -1,7 +1,7 @@
 ---
 title: "Predicting Conformal Aperture Gain From 3-D Aperture and Platform Models"
 collection: publications
-permalink: publication/2016-08-07-Predicting-Conformal-Aperture-Gain-From-3-D-Aperture-and-Platform-Models.
+permalink: /publication/2016-08-07-Predicting-Conformal-Aperture-Gain-From-3-D-Aperture-and-Platform-Models
 excerpt: 'This paper is about predicting the on platform performance envelope for conformal antenna arrays'
 date: 2016-08-07
 venue: 'IEEE Antennas and Wireless Propagation Letters'
