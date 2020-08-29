@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-05-11-Variable-Geometry-Conformal-Antenna-Array-for-Element-Comparison
 excerpt: 'This paper is about modelling antenna elements within a reconfigurable conformal framework.'
 date: 2015-05-11
-venue: '2015 Vehicular Technology Conference'
+venue: 'Vehicular Technology Conference'
 paperurl: 'http://lyceanem.github.io/files/07146157.pdf'
 citation: 'T. G. Pelham, G. Hilton, R. Lewis and C. Railton, &quot;Variable Geometry Conformal Antenna Array for Element Comparison,&quot 2015 IEEE 81st Vehicular Technology Conference (VTC Spring), Glasgow, 2015, pp. 1-5, doi: 10.1109/VTCSpring.2015.7146157.'
 ---
