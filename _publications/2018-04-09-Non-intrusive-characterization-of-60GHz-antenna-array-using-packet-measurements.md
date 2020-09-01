@@ -2,7 +2,7 @@
 title: "Non-intrusive characterization of 60GHz antenna array, using packet measurements"
 collection: publications
 permalink: /publication/2018-04-09-Non-intrusive-characterization-of-60GHz-antenna-array-using-packet-measurements
-excerpt: 'This paper is introduces a convinient method for characterization of integrated antenna arrays using packed measurements'
+excerpt: 'This paper is introduces a convenient method for characterization of integrated antenna arrays using packed measurements'
 date: 2018-04-09
 venue: 'European Conference on Antennas and Propagation'
 citation: 'T. G. Pelham, D. Reyes, M. Beach, E. Mellios and M. Rumney, &quot;Non-intrusive characterization of 60GHz antenna array, using packet measurements,&quot; 12th European Conference on Antennas and Propagation (EuCAP 2018), London, 2018, pp. 1-3, doi: 10.1049/cp.2018.1045.'
