@@ -19,8 +19,8 @@ However, a useful way to model this problem is to start with just the structure 
 
 ![Etheta](/images/UAVEtheta6GHz.png "UAV Etheta relative gain pattern")
 
-In this way the E\theta, and E\phi patterns can be viewed and evaluated.
+In this way the Etheta, and Ephi patterns can be viewed and evaluated.
 ![Ephi](/images/UAVEphi6GHz.png "UAV Ephi relative gain pattern")
 
-Indeed the resultant total directivity pattern can also be calculated. However, this method is presented here without beamforming so it does not yet provide the &quotTrue&quot performance envelope in terms of say maximum achievable gain and steering efficiency. But this is an implementation problem, and one that is easily rectified.
+Indeed the resultant total directivity pattern can also be calculated. However, this method is presented here without beamforming so it does not yet provide the &quot;True&quot; performance envelope in terms of say maximum achievable gain and steering efficiency. But this is an implementation problem, and one that is easily rectified.
 ![Total Directivity](/images/UAVBoresightDirectivity6GHzEz.png "Total Directivity pattern")
