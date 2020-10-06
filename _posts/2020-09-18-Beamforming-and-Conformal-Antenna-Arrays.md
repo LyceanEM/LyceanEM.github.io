@@ -18,16 +18,16 @@ The beamforming algorithm used here is &quot;Equal Gain Combining&quot;. I prefe
 
 ![Beamformed Total Directivity Map](/images/UAVBeamformedTotalDirectivityMap.png "Contour plot of beamformed total achievable directivity")
 
-The maximum achieved directivity in across all polled command angles is 23.8dBi, this is interesting as the eagle eyed reader will note that the scale goes higher. This is because the maximum directivity will not always be in the desired direction. This is easy to imagine when the desired direction is blocked by some object, such as the fuselage in this figure.
+The maximum achieved directivity across all polled command angles is 16dBi, this is interesting as the eagle eyed reader will note that the shared scale for the directivity map and beamformed cloud pattern plots has a larger upper limit. This is because the maximum directivity will not always be in the desired direction. This is easy to imagine when the desired direction is blocked by some object, such as the fuselage in this figure.
 
-![Beamforming to the aft](/images/UAVBeamformedAzm180El0Dm25p6.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth -180 degrees, and Elevation 0 degrees")
+![Beamforming to the aft](/images/UAVBeamformedAzm180El0.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth -180 degrees, and Elevation 0 degrees")
 
 It is somewhat harder to see when the beam is formed towards Azimuth of 0 degrees, and Elevation of 0 degrees. But if the reader looks along the x axis (red arrow), then it becomes easier to see that the pattern maxima is not quite aligned with this direction.
 
-![Beamforming along the direction of flight](/images/UAVBeamformedAz0El0Dm25p7.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation 0 degrees")
+![Beamforming along the direction of flight](/images/UAVBeamformedAz0El0.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation 0 degrees")
 
 One of the major consequences of array polarization is it's influence on the array steerability. Because Z axis aligned current sources were chosen for this example, they steer well in the azimuth direction, but increasing elevation angles away from the array normal vector cause the achievable directivity to drop quickly. As can be seen by steering the beam to first Elevation of -30 degrees, in the first figure, and -60 degrees in the second.
 
-![Beamforming along the direction of flight](/images/UAVBeamformedAz0Elm30Dm25p7.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation -30 degrees")
+![Beamforming along the direction of flight](/images/UAVBeamformedAz0Elm30.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation -30 degrees")
 
-![Beamforming along the direction of flight](/images/UAVBeamformedAz0Elm60Dm21p6.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation -60 degrees")
+![Beamforming along the direction of flight](/images/UAVBeamformedAz0Elm60.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation -60 degrees")
