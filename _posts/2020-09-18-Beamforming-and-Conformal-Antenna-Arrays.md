@@ -33,8 +33,8 @@ One of the major consequences of array polarization is it's influence on the arr
 ![Beamforming along the direction of flight](/images/UAVBeamformedAz0Elm60.png "Point cloud log plot of the total directivity pattern when beamformed to Azimuth 0 degrees, and Elevation -60 degrees")
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="title"
+        repo="LyceanEM/LyceanEM.github.io"
+        issue-term="Beamforming-and-Conformal-Antenna-Arrays"
         theme="github-light"
         crossorigin="anonymous"
         async>
