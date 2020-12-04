@@ -20,7 +20,9 @@ In order to have a model to propagate against, I have created a stand in for a h
 ![Head Imaging](/images/medicalimagingneutralfocus.png "Relative Power plotted over Body Model")
 *Figure 1 Initial Head Imaging*
 
-When the scanner is situated about the head of the body model, the electromagnetic radiation can then be propagated towards the sources in order to model the influence of each individual antenna element or current source upon the total field. For purely line of sight propagation with no scattering assumed, this implies 11.8 million ray checks, and EM processing of a similar number of paths. The power pattern this produces is shown in Figure 1 with each element weighted with zero phase offset.
+When the scanner is situated about the head of the body model, the electromagnetic radiation can then be propagated towards the sources in order to model the influence of each individual antenna element or current source upon the total field. For purely line of sight propagation with no scattering assumed, this implies 11.8 million ray checks, and EM processing of a similar number of paths. Before I moved the EM processing to the GPU, as well as the ray tracing, this model would have taken over 24 hours to run on my home computer, but with the new engine it takes less than a minute.
+
+The power pattern this produces is shown in Figure 1 with each element weighted with zero phase offset.
 
 ![Weighted Head Imaging](/images/medicalimagingformedtohead.png "Relative Power plotted over body Model, weighted towards head")
 *Figure 2 Equal Gain Combining*
@@ -38,7 +40,6 @@ When the scanner is moved over the chest region, a new power pattern is produced
 The biggest problem in medical imaging, is not the resolution per say, but the dynamic range. The majority of the incident field will be reflected off the skin, while the reflections within the body are attenuated both as they propagate within the body, and out through the skin again.
 
 The most common approach to this problem is to situate the sensing array as close to the skin as possible, with some kind of matching medium between the antenna array and the body part to be imaged.
-
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
