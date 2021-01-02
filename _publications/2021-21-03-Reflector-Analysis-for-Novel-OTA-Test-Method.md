@@ -3,7 +3,7 @@ title: "**Accepted** Reflector Analysis for Novel OTA Test Method"
 collection: publications
 permalink: /publication/2021-24-03-Reflector-Analysis-for-Novel-OTA-Test-Method
 excerpt: 'This paper is part of a new series on over the air test (OTA) techniques at 26GHz.'
-date: 2021-21-03
+date: 2021-01-01
 venue: '15th European Conference on Antennas and Propagation'
 citation: 'A. L. Freire, T. G. Pelham, G. Hilton, M. Beach'
 ---
