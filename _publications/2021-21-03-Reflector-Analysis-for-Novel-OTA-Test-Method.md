@@ -1,5 +1,5 @@
 ---
-title: "**Accepted** Reflector Analysis for Novel OTA Test Method"
+title: "Reflector Analysis for Novel OTA Test Method"
 collection: publications
 permalink: /publication/2021-24-03-Reflector-Analysis-for-Novel-OTA-Test-Method
 excerpt: 'This paper is part of a new series on over the air test (OTA) techniques at 26GHz.'
