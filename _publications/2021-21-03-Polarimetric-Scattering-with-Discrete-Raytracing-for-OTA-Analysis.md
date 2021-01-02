@@ -1,11 +1,11 @@
 ---
-title: "**Accepted** Polarimetric Scattering with Discrete Raytracing for OTA Analysis"
+title: "Polarimetric Scattering with Discrete Raytracing for OTA Analysis"
 collection: publications
 permalink: /publication/2021-21-03-Polarimetric-Scattering-with-Discrete-Raytracing-for-OTA-Analysis
 excerpt: 'This paper is part of a new series on over the air test (OTA) techniques at 26GHz.'
 date: 2021-01-01
-venue: '15th European Conference on Antennas and Propagation'
-citation: 'A. L. Freire, T. G. Pelham, G. Hilton, M. Beach'
+venue: '15th European Conference on Antennas and Propagation **(Accepted)**'
+citation: 'T. G. Pelham, A. L. Freire, G. Hilton, M. Beach'
 ---
 The use of millimetre waves (mmWave) requires the development of novel,
 robust over the air (OTA) test methods. One low-cost OTA method is based
