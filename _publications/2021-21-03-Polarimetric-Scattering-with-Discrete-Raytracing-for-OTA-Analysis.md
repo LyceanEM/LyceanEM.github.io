@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-21-03-Polarimetric-Scattering-with-Discrete-Raytracing-for-OTA-Analysis
 excerpt: 'This paper is part of a new series on over the air test (OTA) techniques at 26GHz.'
 date: 2021-01-01
-venue: '15th European Conference on Antennas and Propagation **(Accepted)**'
+venue: '15th European Conference on Antennas and Propagation'
 citation: 'T. G. Pelham, A. L. Freire, G. Hilton, M. Beach'
 ---
 The use of millimetre waves (mmWave) requires the development of novel,
