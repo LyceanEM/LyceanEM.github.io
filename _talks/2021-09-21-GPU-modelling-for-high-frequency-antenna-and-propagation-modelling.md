@@ -2,7 +2,7 @@
 title: "GPU modelling for high frequency antenna and propagation modelling"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-09-21-GPU modelling-for-high-frequency-antenna-and-propagation-modelling
+permalink: /talks/2021-09-21-GPU-modelling-for-high-frequency-antenna-and-propagation-modelling
 venue: "SMART:2021 Future Networks Research Conference"
 date: 2021-09-21
 location: "Bristol, United Kingdom"
