@@ -1,7 +1,7 @@
 ---
 title: 'Profiling, Electromagnetics and GPU Processing'
 date: 2021-06-01
-permalink: /posts/2021/12/Profiling-Electromagnetics-and-GPU-Processing/
+permalink: /posts/2021/06/Profiling-Electromagnetics-and-GPU-Processing/
 tags:
   - LyceanEM
 ---
