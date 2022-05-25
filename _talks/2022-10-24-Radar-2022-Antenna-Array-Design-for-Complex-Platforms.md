@@ -17,8 +17,10 @@ As the demand for integrated radar systems increases, there is a commensurate ne
 
 
 ---
+
 Outline
 ---
+
 As the demand for integrated radar systems increases, there is a commensurate need for consistent model based approaches to the design and integration of antennas and antenna arrays in the overall platform and system models. On mobile platforms, the interior volume and surface footprint available to sensors is a critical resource, while for fixed structures, the influence of the local environment must be considered if a proposed radar system is to meet the desired system performance requirements.
 
 What is required is a model based work flow which allows the designer to evaluate the influence of these factors together with the behaviour of the host platform itself to ensure that the proposed antenna array will be able to meet the requirements before detail array design is begun. In addition, the beamforming architecture of the antenna array contribute a significant fraction of the cost of the radar system, and thus the influence of different architectures on the antenna array performance need to be considered.
