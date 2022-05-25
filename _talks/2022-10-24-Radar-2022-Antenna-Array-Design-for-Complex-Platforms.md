@@ -1,7 +1,11 @@
 ---
 title: 'Radar 2022 : Antenna Array Design for Complex Platforms' 
+collection: talks
+type: "Talk"
 date: 2022-10-24
 permalink: /posts/2022/10/Radar-2022-Antenna-Array-Design-for-Complex-Platforms/
+venue: "Radar 2022"
+location: "Edinburgh, United Kingdom"
 tags:
   - LyceanEM
   - Radar2022
