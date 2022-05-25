@@ -1,7 +1,7 @@
 ---
 title: 'Radar 2022 : Antenna Array Design for Complex Platforms' 
 collection: talks
-type: "Talk"
+type: "Tutorial"
 date: 2022-10-24
 permalink: /posts/2022/10/Radar-2022-Antenna-Array-Design-for-Complex-Platforms/
 venue: "Radar 2022"
