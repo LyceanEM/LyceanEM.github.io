@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2016 - Present: Senior Research Associate for 5G and mmWave Wireless
+* 2021 - Present: UK Intelligence Community Postdoctoral Research Fellow
+  * University of Bristol / Royal Academy of Engineering
+  * Current research combines conventional direction finding techniques with electromagnetics modelling, computer vision and RF fingerprinting to develop spatial intelligence as a new way to secure wireless networks.
+* 2016 - 2021: Senior Research Associate for 5G and mmWave Wireless
   * University of Bristol
   * Duties included: RF Systems design, mmWave propagation measurements, Electromagnetics Model design, Antenna Array design, Teaching and Research Bid preperation.
   * Supervisor: Professor Mark Beach

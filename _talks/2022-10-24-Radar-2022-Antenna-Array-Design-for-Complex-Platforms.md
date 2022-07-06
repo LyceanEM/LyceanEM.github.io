@@ -10,8 +10,8 @@ tags:
   - LyceanEM
   - Radar2022
 ---
-Upcoming Tutorial : Radar 2022 - Antenna Array Design for Complex Platforms
----
+Upcoming Tutorial : Radar 2022 - Antenna Array Design for Complex Platforms 
+--- 
 I will be holding a tutorial on antenna array design for complex platforms at [Radar 2022](https://radar2022.theiet.org/) in Edinburgh.
 As the demand for integrated radar systems increases, there is a commensurate need for consistent model based approaches to the design and integration of antennas and antenna arrays in the overall platform and system models. On mobile platforms, the interior volume and surface footprint available to sensors is a critical resource, while for fixed structures, the influence of the local environment must be considered if a proposed radar system is to meet the desired system performance requirements. 
 
