@@ -1,12 +1,12 @@
 ---
-title: 'LyceanEM Examples'
+title: 'Nvidia Applied Research Accelerator Award'
 date: 2022-7-5
 permalink: /posts/2022/7/Nvidia-Applied-Research-Accelerator-Program/
 tags:
   
 ---
 
-Nvidia Applied Research Accelerator Award
+Announcment of Nvidia Applied Research Accelerator Award, and implications for combined sensor network research.
 
 ---
 
