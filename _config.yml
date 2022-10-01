@@ -87,7 +87,7 @@ author:
   employer         : "University of Bristol"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vzK63kEAAAAJ"
-  email            :
+  email            : "lyceanem@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Timothy_Pelham"
   uri              :
   bitbucket        :
@@ -222,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _consulting
+  - scope:
+      path: ""
+      type: consulting
     values:
       layout: single
       author_profile: true
