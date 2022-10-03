@@ -2,7 +2,7 @@
 title: "Rapid Antenna and Array Analysis for Virtual Prototyping"
 collection: publications
 permalink: /publication/2021-04-21-Conformal-Antenna-Array-Design-using-Aperture-Synthesis-and-On-platform-modelling
-excerpt: 'Conformal Antenna Array design methods, using raycasting for efficent on platform modelling'
+excerpt: 'Demonstration of the workflow for rapid antenna array design and analysis using LyceanEM'
 date: 2022-10-25
 venue: 'Radar 2022'
 citation: 'T. G. Pelham'
@@ -11,4 +11,15 @@ The increased use of radar systems in new form factors from automotive to small 
 
 ![Sea Searcher Radar](/images/seasearcher.png "Sea Searcher Radar with Rotator and RF Electronics")
 *Figure 1 Sea Searcher Radar*
+
+The measured antenna aperture has a maximum directivity enevelope which can be predicted very rapidly using LyceanEM, and this can then be used to move forward on designs. In this case, the workflow is demostrating the analysis of an exsisting antenna, so the prediction is based upon a fixed horn illuminator and no beamforming. The maximum directivity envelope is shown in Figure 2, while the predicted antenna patterns are shown in Figures 3 and 4.
+
+![Maximum Directivity Envelope](/images/directivitymap.png "Maximum directivity envelope for reflector")
+*Figure 2 Sea Searcher Reflector MAximum Directivity Envelope*
+
+![Dtheta](/images/predictedDtheta.png "Predicted Etheta antenna directivity")
+*Figure 3 Etheta polarisation directivity pattern*
+
+![Dtheta](/images/predictedDphi.png "Predicted Ephi antenna directivity")
+*Figure 4 Ephi polarisation directivity pattern*
 
