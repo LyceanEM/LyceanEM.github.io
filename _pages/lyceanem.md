@@ -5,9 +5,7 @@ permalink: /lyceanem/
 author_profile: true
 ---
 
-{% include base_path %}
-
-[LyceanEM](https://lyceanem-python.readthedocs.io/en/latest/) is a Python library for modelling electromagnetic propagation for sensors and communications. Frequency Domain and Time Domain models are included that allow the user to model a wide array of complex problems from antenna array architecture and assess beamforming algorithm performance to channel modelling. The model is built upon a ray tracing approach, allowing for efficient modelling of large, low density spaces.
+{% include base_path %} [LyceanEM](https://lyceanem-python.readthedocs.io/en/latest/) is a Python library for modelling electromagnetic propagation for sensors and communications. Frequency Domain and Time Domain models are included that allow the user to model a wide array of complex problems from antenna array architecture and assess beamforming algorithm performance to channel modelling. The model is built upon a ray tracing approach, allowing for efficient modelling of large, low density spaces.
 
 `LyceanEM` is designed with collaborative research in mind and is under continuous development. While initially developed for rapid virtual prototyping of antenna arrays on complex platforms, `LyceanEM` is has now demonstrated multiple additional use cases. The primary application is as a flexible channel model, with Frequency and Time domain modes, with examples in publication or due for publication in Communications, and Satellite Based Passive Radar.
 
