@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _LyceanEM
+  # _lyceanem
   - scope:
       path: ""
       type: lyceanem
