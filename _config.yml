@@ -239,7 +239,7 @@ defaults:
   # _LyceanEM
   - scope:
       path: ""
-      type: LyceanEM
+      type: lyceanem
     values:
       layout: single
       author_profile: true
