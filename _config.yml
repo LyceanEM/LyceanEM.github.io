@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _LyceanEM
+  - scope:
+      path: ""
+      type: LyceanEM
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   #- scope:
   #    path: ""
