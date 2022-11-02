@@ -1,6 +1,6 @@
 ---
 title: 'Unfogging the Farfield'
-date: 2022-11-02
+date: 2022-11-04
 permalink: /posts/2022/7/Unfogging-the-farfield/
 tags:
   - Electromagnetics
@@ -47,7 +47,8 @@ Farfield Analysis for a Conformal Antenna Array
 
 
 [^fn1]: E. Knott and T. B. Senior. "How far is far?" In: IEEE Transactions on Antennas and Propagation 22.5 (Sept. 1974),
-pp. 732{734. issn: 1558-2221. doi: 10.1109/TAP.1974.1140880.
+pp. 732-734. issn: 1558-2221. doi: 10.1109/TAP.1974.1140880.
+
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
