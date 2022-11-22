@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "LyceanEM"
+    url: /lyceanem/
+
   - title: "Talks"
     url: /talks/
 
