@@ -1,7 +1,7 @@
 ---
 title: 'Unfogging the Farfield'
-date: 2022-11-02
-permalink: /posts/2022/7/Unfogging-the-farfield/
+date: 2022-12-02
+permalink: /posts/2022/12/Unfogging-the-farfield/
 tags:
   - Electromagnetics
   - Antennas
@@ -38,10 +38,6 @@ antenna under consideration then the region of interest should be used when calc
 
 Farfield Analysis for a Horn Antenna
 -------------------------------------
-
-
-Farfield Analysis for a Conformal Antenna Array
-----------------------------------------------
 
 
 
