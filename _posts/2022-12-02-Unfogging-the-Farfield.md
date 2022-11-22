@@ -26,10 +26,11 @@ distance is an abstraction that reflects the distance at which the expanding sph
 wavefronts, and hence this abstract introduces some level of phase error depending on the range from the transmitting 
 antenna to the region of interest. Importantly, this variation in phase over the region of interest is dependent on the size of the transmitting antenna or ara
 ray, the range, and the size of the region of interest. The definition of the farfield distance for an aperture is based
-upon the range at which the phase error across the receiving antenna is less than 22.5 degrees.
+upon the range at which the phase error across the receiving antenna is less than 22.5 degrees [^fn1].
 
-The Fraunhofer distance ($d_{f}$, which is accepted as the definition as the minimum distance at which the farfield approximation 
+The Fraunhofer distance ($d_{f}$), which is accepted as the definition as the minimum distance at which the farfield approximation 
 can be used based upon the wavelength of interest $\lambda$, and the diameter of the antenna/aperture $D$, is defined as: 
+
 $$d_{f}=\dfrac{2D^{2}}{\lambda} $$
 
 It is important to recognise that this distance is reciprocal, and if the region of interest is large enough, then the 
@@ -39,6 +40,14 @@ antenna under consideration then the region of interest should be used when calc
 Farfield Analysis for a Horn Antenna
 -------------------------------------
 
+
+Farfield Analysis for a Conformal Antenna Array
+----------------------------------------------
+
+
+
+[^fn1]: E. Knott and T. B. Senior. "How far is far?" In: IEEE Transactions on Antennas and Propagation 22.5 (Sept. 1974),
+pp. 732-734. issn: 1558-2221. doi: 10.1109/TAP.1974.1140880.
 
 
 <script src="https://utteranc.es/client.js"
