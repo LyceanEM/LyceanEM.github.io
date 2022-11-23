@@ -1,6 +1,6 @@
 ---
 title: 'Operating in the Future Electromagnetic Environment Symposium'
-date: 2022-12-02
+date: 2022-11-22
 permalink: /posts/2022/11/Operating-in-the-Future-Electromagnetic-Environment-Symposium/
 tags:
   - Electromagnetics
