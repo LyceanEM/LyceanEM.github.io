@@ -11,7 +11,8 @@ tags:
   - Qinetiq
   
 ---
-
+An excellent symposium hosted at the IET. A lovely building with a statue of Faraday right in front.
+The symposium was hosted by DSTL.
 
 ---
 
