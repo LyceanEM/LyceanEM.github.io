@@ -41,6 +41,7 @@ Farfield Analysis for a Horn Antenna
 -------------------------------------
 
 ![PhaseVariationwithSeperation](/images/aperturemeshresolutionfarfieldphase.png "Phase Variation with Aperture Mesh Resolution and Seperation for Horn Antenna")
+
 *Figure 1 Effects of Aperture Mesh Resolution on Sampled Phase Variation*
 
 Figure 1 shows the standard deviation of the sample phase at the receiving aperture for a horn antenna with an aperture 4 wavelengths wide, and 4 wavelengths tall. Therefor the Fraunhofer distance at 10GHz is 96cm, or 32 wavelengths (magenta vertical line in Figure 1). A sampling aperture 8 wavelengths wide, and 8 wavelengths tall was used to sample the received phase with increasing seperation between the horn model and sampling aperture. Based on this size, the sampling aperture would have a Fraunhofer distance of 3.84m or 128 wavelengths (cyan vertical line in Figure 1). This is an interesting example of the importance of considering not just the antenna or array being simulated, but also the method used to measure it, as the interactions can have a significant effect on the results. The benefit of using standard deviation for this plot is that change in variation of the sampled phase points can be shown easily, with the collary that 99.7% of the phase values will be within a factor of 3 of the standard deviation, making the figure meeting the definition of farfield as 
@@ -50,6 +51,7 @@ It also makes clear the effect of aperture sampling resolution as the distances 
 When the normalised phase at each point is animated, it is possible to get a more intuitive understanding of the way the phase distribution across an aperture changes with distance from the transmitting aperture, and this is included in Figure 2.
 
 ![PhaseSamplingwithSeperation](/images/farfieldanimation.gif "Phase Variation with Distance across the receiving aperture")
+
 *Figure 2 Sampled Phase across Receiving Aperture with increasing distance*
 
 [^fn1]: E. Knott and T. B. Senior. "How far is far?" In: IEEE Transactions on Antennas and Propagation 22.5 (Sept. 1974),
