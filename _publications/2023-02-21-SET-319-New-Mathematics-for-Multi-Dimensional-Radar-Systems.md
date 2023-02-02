@@ -1,5 +1,5 @@
 ---
-title: 'Flexible Radar Channel Model for Multi-Dimensional Radar' 
+title: "Flexible Radar Channel Model for Multi-Dimensional Radar" 
 collection: publications
 permalink: /publication/2023-02-21-SET-319-New-Mathematics-for-Multi-Dimensional-Radar-Systems
 excerpt: 'Demonstration of the workflow for rapid antenna array design and analysis using LyceanEM'
@@ -7,11 +7,8 @@ date: 2023-02-21
 venue: "ICMS, Edinburgh"
 citation: 'T. G. Pelham'
 ---
-Paper : Flexible Radar Channel Model for Multi-Dimensional Radar
---- 
 
 
----
 
 Outline
 ---
