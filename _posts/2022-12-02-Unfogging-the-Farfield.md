@@ -61,8 +61,8 @@ When the normalised phase at each point is animated, it is possible to get a mor
 
 In Figure 3 the contour lines denote an angular spacing of 5 degrees, so if there are less than four contour lines on the plot, that distances meets the definition of phase difference of less than 22.5 degrees across the region of interest.
 
-[^fn1]: E. Knott and T. B. Senior. "How far is far?" In: IEEE Transactions on Antennas and Propagation 22.5 (Sept. 1974),
-pp. 732-734. issn: 1558-2221. doi: 10.1109/TAP.1974.1140880.
+[^fn1]: E. Knott and T. B. Senior. "How far is far?" In: IEEE Transactions on Antennas and Propagation 22.5 (Sept. 1974),pp. 732-734. issn: 1558-2221. doi: 10.1109/TAP.1974.1140880.
+
 
 
 <script src="https://utteranc.es/client.js"
