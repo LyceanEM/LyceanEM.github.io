@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Lycean Electromagnetics"
+title: "LyceanEM Consulting Ltd"
 permalink: /consulting/
 author_profile: true
 ---
 
 {% include base_path %}
-With over twelve years of experience in RF systems, radar systems modelling and electromagnetics, Lycean Electromagnetics can offer a wealth of expertise.
+With over twelve years of experience in RF systems, radar systems modelling and electromagnetics, LyceanEM Consulting can offer a wealth of expertise.
 
 Training Courses
 =====
