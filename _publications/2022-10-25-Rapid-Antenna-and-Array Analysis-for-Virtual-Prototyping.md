@@ -5,7 +5,8 @@ permalink: /publication/2021-04-21-Conformal-Antenna-Array-Design-using-Aperture
 excerpt: 'Demonstration of the workflow for rapid antenna array design and analysis using LyceanEM'
 date: 2022-10-25
 venue: 'Radar 2022'
-citation: 'T. G. Pelham, "Rapid antenna and array analysis for virtual prototyping" International Conference on Radar Systems (RADAR 2022), Hybrid Conference, Edinburgh, UK, 2022, pp. 278-282, doi: 10.1049/icp.2022.2330.'
+paperurl: 'https://ieeexplore.ieee.org/document/10038925'
+citation: 'T. G. Pelham, "Rapid antenna and array analysis for virtual prototyping" International Conference on Radar Systems (RADAR 2022), Hybrid Conference, Edinburgh, UK, 2022, pp. 278-282, doi: 10.1049/icp.2022.2330'
 ---
 The increased use of radar systems in new form factors from automotive to small unmanned aerial vehicles requires the development of robust and accessible methods for virtual prototyping. Allowing a project team to evaluate the influence of platform structure, antenna or array geometry and beamforming architecture on overall system performance. Using spatial measurements of a Sea Searcher X band radar as an example, LyceanEM is used to predict the influence of reflector shape on maximum achievable directivity, and predicted antenna pattern, compared with full electromagnetic solver (CST) at 9.3GHz. LyceanEM showed a correlation of 0.8 between the predicted and full solver antenna pattern, predicting a maximum directivity of 19.36dBi, compared to 21.97dBi for CST, using 109 seconds of runtime, versus 37 hours for the time domain solver.
 
