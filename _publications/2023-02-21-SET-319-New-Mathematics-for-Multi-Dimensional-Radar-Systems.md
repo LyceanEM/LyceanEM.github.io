@@ -36,16 +36,9 @@ in elevation, and -59.7 degrees and -60 degrees in azimuth.
 ![Target UAS](/images/TargetwithScatteringPoints.png "Notional Target for Modelling at 2km range")
 
 A linear frequency chirp was chosen with a bandwidth of 3GHz, sweeping from 8.5GHz to 11.5GHz over a pulse time of 20ns.
-The pulse power was chosen as 1dBW, suitable for the small UAV used in the example, and transmitted by the lead UAS (Swarm 1).
+The pulse power was chosen as 1W, suitable for the small UAV used in the example, and transmitted by the lead UAS (Swarm 1).
 
 ![Frequency Domain Angle of Arrival (Azimuth)](/images/FrequencyDomainBeamformingAzimuth.png "Calculated Angle of Arrival in Azimuth for all UAS")
 
 ![Frequency Domain Angle of Arrival (Elevation)](/images/FrequencyDomainBeamformingElevation.png "Calculated Angle of Arrival in Elevation for all UAS")
-
-Time domain beamforming for each radar based upon the illuminating pulse show the effects of introducing time delays on the predicted range of the target.
-
-![Time Domain Range Map](/images/Swarm1RangeMap.png "Range vs Beamforming Angle for UAS 1 (Transmitter)")
-
-![Time Domain Range Map](/images/Swarm2RangeMap.png "Range vs Beamforming Angle for UAS 2 (Passive Receiver)")
-
 
