@@ -32,6 +32,9 @@ The simplest example is a sphere without data attached.
 ```
 [Sphere](/files/sphererender.html)
 
+While not easy to integrate into my current website setup, it is very easy to export a `PyVista` graph as a mesh, which can then be plotted in `ParaView`, leading to very nice visualisations.
+
+![Beamformed Directivity](/images/UAVBeamformedDirectivityMapVPol.png)
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
