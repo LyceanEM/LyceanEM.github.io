@@ -36,9 +36,9 @@ While not easy to integrate into my current website setup, it is very easy to ex
 
 ![Beamformed Directivity](/images/UAVBeamformedDirectivityMapVPol.png)
 
-This renders nicely in `Paraview`, but there is no substitute for a live 3D graph.
+This renders nicely in `Paraview`, but there is no substitute for a live 3D graph. The sphere example renders within a jupyter notebook, and can be exported as an html page. However, the example drawn from LyceanEM with the 10GHz conformal antenna array does can recreate the Paraview plot relatively easily, but does not export correctly as an html file. Obviously more work to be done. 
 
-[Beamformed Directivity](/files/UAVExample.html)
+![Beamformed Directivity](/images/UAVBeamformedDirectivityMapVPolPyVista.png)
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
