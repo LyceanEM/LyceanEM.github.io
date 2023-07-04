@@ -36,6 +36,10 @@ While not easy to integrate into my current website setup, it is very easy to ex
 
 ![Beamformed Directivity](/images/UAVBeamformedDirectivityMapVPol.png)
 
+This renders nicely in `Paraview`, but there is no substitute for a live 3D graph.
+
+[Beamformed Directivity](/files/UAVExample.html)
+
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
         issue-term="Engaging-Plots-with-PyVista"
