@@ -25,7 +25,7 @@ An intial exploration of PyVista for interactive 3D plots, and the challenges an
     plotter.show(jupyter_backend='trame')
     
 ```
-![Sphere](/files/sphererender.html)
+[](/files/sphererender.html)
 
 
 <script src="https://utteranc.es/client.js"
