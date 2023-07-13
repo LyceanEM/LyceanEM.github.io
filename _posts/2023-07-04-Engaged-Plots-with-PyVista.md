@@ -40,6 +40,10 @@ This renders nicely in `Paraview`, but there is no substitute for a live 3D grap
 
 ![Beamformed Directivity](/images/UAVBeamformedDirectivityMapVPolPyVista.png)
 
+One improvement which pyvista offers is the ability to easily produce animated plots of the antenna patterns, together with the structure meshes. This allows for a very intuitive look at the changes in the antenna pattern while the command angle is varied.
+
+![Animated Example](/images/AnimatedUAVArray.gif)
+
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
         issue-term="Engaging-Plots-with-PyVista"
