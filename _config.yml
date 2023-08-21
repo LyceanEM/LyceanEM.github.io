@@ -230,7 +230,7 @@ defaults:
   # _consulting
   - scope:
       path: ""
-      type: consulting
+      type: LyceanSolutions
     values:
       layout: single
       author_profile: true
