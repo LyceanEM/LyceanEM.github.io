@@ -16,8 +16,9 @@ Initial mapping of the vehicular Global Navigation Satellite System (GNSS) measu
 
 ---
 
-<iframe src="../files/Satellite_Availability.html" height="800" width="1000"></iframe>
+<iframe src="https://lyceanem.com/files/Satellite_Availability.html" height="800" width="1000"></iframe>
 
+[Direct Link](https://lyceanem.com/files/Satellite_Availability.html)
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
