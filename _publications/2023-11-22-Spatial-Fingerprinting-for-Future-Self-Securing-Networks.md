@@ -10,7 +10,7 @@ networks between nodes in a node work, enabling self securing behaviour, and the
 unauthorised transmitters attempting to penetrate the network. This process is demonstrated using modelled and
 measured data of LoRa network packets with an Anechoic Chamber, allowing for complete modelling of the scattering
 environment within the spatial intelligence node, and localisation of the transmitters.'
-date: 2023-06-12
+date: 2023-11-22
 venue: 'Operating in the Future Electromagnetic Environment Symposium'
 paperurl: [Poster](..%2Ffiles%2FSpatialIntelligence2023.pdf)
 citation: 'Pelham, T. G., (2023). Spatial Fingerprinting for Future Self Securing
