@@ -1,6 +1,6 @@
 ---
-title: "Spatial Fingerprinting for Future Self Securing
-Networks"
+title: "Spatial Modelling for GPS Replication in Natural
+and Urban Canyons"
 collection: publications
 permalink: /publication/2023-11-22-Spatial-Modelling-for-GPS-Replication-in-Natural-and-Urban-Canyons
 excerpt: 'Global Navigation Satellite System (GNSS) data has become a stable of modern life, whether delivered through a
