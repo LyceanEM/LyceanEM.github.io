@@ -6,7 +6,7 @@ tags:
   
 ---
 
-Announcment of Nvidia Applied Research Accelerator Award, and implications for combined sensor network research.
+Announcement of Nvidia Applied Research Accelerator Award, and implications for combined sensor network research.
 
 ---
 
