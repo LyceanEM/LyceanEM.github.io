@@ -16,7 +16,7 @@ Initial mapping of the vehicular Global Navigation Satellite System (GNSS) measu
 
 ---
 
-<iframe src="..%2Ffiles%2FSatellite_Availability.html" height="800" width="1000"></iframe>
+<iframe src="../files/Satellite_Availability.html" height="800" width="1000"></iframe>
 
 
 <script src="https://utteranc.es/client.js"
