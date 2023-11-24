@@ -17,10 +17,10 @@ Initial mapping of the vehicular Global Navigation Satellite System (GNSS) measu
 ---
 The measurement setup allowed by the generous equipment loan by Spirent, and the help of the University of Cardiff included an Ouster OS0-128 Lidar, a Spirent GSS6450 GNSS Signal Recorder, and a Novatel GNSS-850 GPS receiver, allowing us to recorder a high quality "ground truth" track. This was then combined with my work on spatial modelling using [LyceanEM](https://github.com/LyceanEM/LyceanEM-Python) and `skyfield` to calculate the GPS satellite positions and antenna patterns relative to the local spatial map captured with the Lidar and my three Luxonis Oak-D W cameras.
 
-![Test Setup](https://lyceanem.com/images/20230810_124135.jpg)
+![Test Setup](/images/20230810_124135.jpg)
 Test Setup before mounting on the car.
 
-![Out on the Clifton Downs](https://lyceanem.com/images/20230811_152327.jpg) 
+![Out on the Clifton Downs](/images/20230811_152327.jpg) 
 Thanks to my kind collaborators at Cardiff who took a picture of me posing by our test setup.
 
 The weather was glorious, with excellent light for the cameras. I have used `pyvista` to create a merged video stream of the first measurement set through the Clifton Gorge and underneath the famous suspension bridge. 
