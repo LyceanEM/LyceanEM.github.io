@@ -12,7 +12,6 @@ measured data of LoRa network packets with an Anechoic Chamber, allowing for com
 environment within the spatial intelligence node, and localisation of the transmitters.'
 date: 2023-11-22
 venue: 'Operating in the Future Electromagnetic Environment Symposium'
-paperurl: [Poster](..%2Ffiles%2FSpatialIntelligence2023.pdf)
 citation: 'Pelham, T. G., (2023). Spatial Fingerprinting for Future Self Securing
 Networks. Operating in the Future Electromagnetic Environment Symposium - 2023'
 ---
