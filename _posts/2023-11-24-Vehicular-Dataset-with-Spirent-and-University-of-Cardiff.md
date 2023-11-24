@@ -31,9 +31,9 @@ While only initial processing work has been done, I have included a map of the 7
 
 There is further information in my poster on the topic for the Operating in the Future Electromagnetic Environment Symposium, which can be found in my [publications](https://lyceanem.com/publication/2023-11-22-Spatial-Modelling-for-GPS-Replication-in-Natural-and-Urban-Canyons).
 
-<iframe src="https://lyceanem.com/files/Satellite_Availability.html" height="800" width="1000"></iframe>
+<iframe src="/files/Satellite_Availability.html" height="800" width="1000"></iframe>
 
-[Direct Link](https://lyceanem.com/files/Satellite_Availability.html)
+[Direct Link](/files/Satellite_Availability.html)
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
