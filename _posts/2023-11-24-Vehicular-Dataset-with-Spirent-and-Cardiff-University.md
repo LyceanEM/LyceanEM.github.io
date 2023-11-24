@@ -1,5 +1,5 @@
 ---
-title: 'Vehicular Dataset with Spirent and University of Cardiff'
+title: 'Vehicular Dataset with Spirent and Cardiff University'
 date: 2023-11-24
 permalink: /posts/2023/11/Vehicular-Dataset-with-Spirent-and-Cardiff-University/
 tags:
