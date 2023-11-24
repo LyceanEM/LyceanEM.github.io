@@ -1,6 +1,6 @@
 ---
 title: 'Vehicular Dataset with Spirent and University of Cardiff'
-date: 2023-07-04
+date: 2023-11-24
 permalink: /posts/2023/11/Vehicular-Dataset-with-Spirent-and-University-of-Cardiff/
 tags:
   - Electromagnetics
