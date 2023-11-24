@@ -1,7 +1,7 @@
 ---
 title: 'Vehicular Dataset with Spirent and University of Cardiff'
 date: 2023-11-24
-permalink: /posts/2023/11/Vehicular-Dataset-with-Spirent-and-University-of-Cardiff/
+permalink: /posts/2023/11/Vehicular-Dataset-with-Spirent-and-Cardiff-University/
 tags:
   - Electromagnetics
   - Antennas
@@ -12,10 +12,10 @@ tags:
   - Measurements
   
 ---
-Initial mapping of the vehicular Global Navigation Satellite System (GNSS) measurement dataset created with Spirent and the University of Cardiff
+Initial mapping of the vehicular Global Navigation Satellite System (GNSS) measurement dataset created with Spirent and the Cardiff University.
 
 ---
-The measurement setup allowed by the generous equipment loan by Spirent, and the help of the University of Cardiff included an Ouster OS0-128 Lidar, a Spirent GSS6450 GNSS Signal Recorder, and a Novatel GNSS-850 GPS receiver, allowing us to recorder a high quality "ground truth" track. This was then combined with my work on spatial modelling using [LyceanEM](https://github.com/LyceanEM/LyceanEM-Python) and `skyfield` to calculate the GPS satellite positions and antenna patterns relative to the local spatial map captured with the Lidar and my three Luxonis Oak-D W cameras.
+The measurement setup allowed by the generous equipment loan by Spirent, and the help of the Cardiff University included an Ouster OS0-128 Lidar, a Spirent GSS6450 GNSS Signal Recorder, and a Novatel GNSS-850 GPS receiver, allowing us to recorder a high quality "ground truth" track. This was then combined with my work on spatial modelling using [LyceanEM](https://github.com/LyceanEM/LyceanEM-Python) and `skyfield` to calculate the GPS satellite positions and antenna patterns relative to the local spatial map captured with the Lidar and my three Luxonis Oak-D W cameras.
 
 ![Test Setup](/images/20230810_124135.jpg)
 Test Setup before mounting on the car.
