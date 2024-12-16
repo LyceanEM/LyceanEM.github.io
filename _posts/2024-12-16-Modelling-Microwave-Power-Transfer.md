@@ -48,6 +48,7 @@ Amplitude and Phase Optimization](https://apps.dtic.mil/sti/trecms/pdf/AD1128170
 
 $$\tau=\dfrac{\sqrt(A_{t}A_{r})}{\lambda D}$$
 
+$\tau$ allowing the maximum possible transfer efficiency $\eta$ to be calculated. 
 
 $$\eta=1-e^{\tau^{2}}$$
 
