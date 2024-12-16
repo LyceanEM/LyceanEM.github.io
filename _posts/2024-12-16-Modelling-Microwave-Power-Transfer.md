@@ -1,5 +1,5 @@
 ---
-title: 'Royal Academy of Engineering Awardee Excellence Community Conference'
+title: 'Modelling Microwave Power Tramsfer'
 date: 2024-12-16
 permalink: /posts/2024/12/Modelling-Microwave-Power-Transfer/
 tags:
