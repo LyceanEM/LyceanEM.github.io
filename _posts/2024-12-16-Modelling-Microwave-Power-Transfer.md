@@ -48,6 +48,7 @@ Amplitude and Phase Optimization](https://apps.dtic.mil/sti/trecms/pdf/AD1128170
 
 $$\tau=\dfrac{\sqrt(A_{t}A_{r})}{\lambda D}$$
 
+
 $$\eta=1-e^{\tau^{2}}$$
 
 ![Power Transfer Comparison for two 4sqm Aperture at 10GHz](/images/BeamformingComparison10GHz4t4sqm.png)
