@@ -62,3 +62,12 @@ Visualising Large Scale Power Transfer - International Conference on Energy from
 At the [International Conference on Energy from Space](https://www.aerosociety.com/events-calendar/international-conference-on-energy-from-space-2024/) in April 2024 I delivered a [talk on SCOPES](https://www.aerosociety.com/media/23649/efs-day-3-timothy-pelham.pdf). We demonstrated a "small scale" model of wireless power transfer, from a circular transmitting array with a diameter of 34m and 250,000 antenna elements, over a distance of 5.9km, to an elliptical receiving antenna array with maximum diameter of 37m, and 1 million antenna elements. Based upon a target power density of 240W/m2, this small scale setup would be able to transfer 253kW. While the receiving station was sited just outside Walton in Gordano, the transmitting antenna array was arranged so that it would replicate the illumination angle of a geosynchronus satellite. While the scale of computation required for a full scale 2GW demonstration is still an ambitious goal, the demonstration showed the potential of LyceanEM to scale up to the required level with sufficient computational resources. The focus for the future is on the development of increasingly efficient computational approaches to support full scale modelling within convenient timescales, allowing the investigation of novel beamforming approaches to manage the power transfer efficiently and safely. This talk included a [visualisation of the illuminated power from the transmitting power station](https://www.youtube.com/shorts/BHI4aCcsMMk), and a [comparison of Space-Based Solar Power Concepts](https://www.youtube.com/shorts/cKTon354SRI).
 
 [1] Qiang Chen, Xing Chen & Xin Duan. (2018) Investigation on beam collection efficiency in microwave wireless power transmission. Journal of Electromagnetic Waves and Applications 32:9, pages 1136-1151. 
+
+<script src="https://utteranc.es/client.js"
+        repo="LyceanEM/LyceanEM.github.io"
+        issue-term="Modelling-Microwave-Power-Transfer"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
