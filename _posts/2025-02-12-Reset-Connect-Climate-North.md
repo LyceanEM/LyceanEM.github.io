@@ -27,7 +27,7 @@ We got the opportunity to speak to Kerry McCarthy (Parliamentary Under Secretary
 
 ![Photo from event by Reset Connect](/images/_DSC5192.JPG)
 
-What was also interesting was not only the speeches by Kerry McCarthy MP and Sally Jameson MP. But also the opportunity to speak with representatives from the Department for Energy Security and Net Zero, investors, and people from charities and local government. I hope I was able to articulate the potential of Space-based Solar Power as a an opportunity for reliable green power. A thunderbirds style project with a global impact, and an upward vision of the future in which ambitious projects can transform the future with appropriate technology and innovation.
+What was also interesting was not only the speeches by Kerry McCarthy MP and Sally Jameson MP. But also the opportunity to speak with representatives from the Department for Energy Security and Net Zero, investors, and people from charities and local government. I hope I was able to articulate the potential of Space-based Solar Power as an opportunity for reliable green power. A thunderbirds style project with a global impact, and an upward vision of the future in which ambitious projects can transform the future with appropriate technology and innovation.
 
 
 
