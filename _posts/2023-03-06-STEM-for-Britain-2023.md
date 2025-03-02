@@ -22,7 +22,7 @@ STEM for BRITAIN is a major scientific poster competition and exhibition which h
 I was delighted to be a finalist with my poster on Open Source Electromagnetics for Giga Scale Antenna Arrays using LyceanEM.
 
 
-![Full Poster](/files/SpaceBasedSolarPowerStemforBritain2023.pdf)
+[Full Poster](/files/SpaceBasedSolarPowerStemforBritain2023.pdf)
 
  
 
