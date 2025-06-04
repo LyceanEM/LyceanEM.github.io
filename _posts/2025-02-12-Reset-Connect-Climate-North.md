@@ -12,7 +12,7 @@ tags:
   - Department for Energy Security and Net Zero
 ---
 
-A welcome invite from Reset Connect resulted in Professor Mark Beach and I taking the train up to Westminster with posters and a Communication Systems and Networks Laboratory banner up to Parliament. Presenting the results of my work on scalable electromagnetics for Space-based Solar Power. We were able to engage with Members of Parliament from the North of England, and discuss the potential for different technologies to address the Net Zero Climate Challenge.
+A welcome invite from Reset Connect resulted in [Professor Mark Beach](https://www.bristol.ac.uk/people/person/Mark-Beach-e750d6bd-4c7f-473b-bd1c-4386e35eb126/) and I taking the train up to Westminster with posters and a Communication Systems and Networks Laboratory banner up to Parliament. Presenting the results of my work on scalable electromagnetics for Space-based Solar Power. We were able to engage with Members of Parliament from the North of England, and discuss the potential for different technologies to address the Net Zero Climate Challenge.
 
 We got the opportunity to speak to Kerry McCarthy (Parliamentary Under Secretary of State (Department for Energy Security and Net Zero) speak about her vision for Net Zero and its delivery through innovation. There was even a mention of the work we are doing at Bristol on Space Based Solar Power, and it was great to get the chance to talk to her about my research, and the excellent work being done within the Communications Systems and Networks Laboratory.
 
