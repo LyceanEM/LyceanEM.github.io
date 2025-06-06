@@ -36,9 +36,21 @@ The first example is the antenna array pattern for the 10GHz conformal antenna a
 
 The second example is the achived maximum beamformed directivity pattern for the same antenna array. This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achiveved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of LyceanEM for assessing the overall antenna array performance in terms of controllable directive gain.
 
-<iframe src="/files/example02results.html" height="800" width="1000"></iframe>
+Space-based Solar Power
+-------------------------
 
-The third example is one which is particularly interesting, because it shows the resultant power density for a scale model of a Space-based Solar Power system, with the receiver located just outside Walton-in-Gordano. The map tile use is drawn from the National Lidar Progamme, and includes the receiving antenna array with 1 million antenna elements. This array is illuminated from a transmitting antenna array located over 5km away on the elevation and azimuth bearing which a notional geostationary Space-based solar power plant might be located. This example demonsrates a power transfer efficiency of 85% using Retrodirective Beamforming, compared to only 82% using Wavefront Beamforming. This equates to a total received power from the station of 191.7kW.
+`LyceanEM` has been developed by the SCOPES project, funded by the Net Zero Innovation Portfolio, to support the development of Space-based Solar Power (SBSP) systems. The project is a collaboration between the University of Bristol and Virtus Solis, and aims to develop the computational tools required to design and operate the gigascale antenna arrays required for SBSP. To this end the release of version 0.1.0 marks the first open release of `LyceanEM` with a CUDA engine which is capable of splitting a model across multiple GPUs with the right scripting, and simulating truly enormous models in a short space of time.
+
+
+<iframe src="/files/SBSP_Demo.html" height="800" width="1000"></iframe>
+
+The third dynamic example is one which is particularly interesting, because it shows the resultant power density for a scale model of a Space-based Solar Power system, with the receiver located just outside Walton-in-Gordano. The map tile use is drawn from the National Lidar Programme, and includes the receiving antenna array with 1 million antenna elements. This array is illuminated from a transmitting antenna array located over 5.9km away on the elevation and azimuth bearing which a notional geostationary Space-based solar power plant might be located. This example demonstrates a power transfer efficiency of 85% using Retrodirective Beamforming, compared to only 82% using Wavefront Beamforming. This equates to a total received power from the station of 191.7kW.
+
+The transmitter was specified as a circular antenna array with a diameter of 34.4m with 250,000 elements. The received power at the receiver based upon propagation from the transmitter through the lower atmosphere, with comparison of three different beamforming schemes was simulated in under six hours, an impressive feat for a general model coping with $` 2.5\times10^{11}`$ independant paths in a complex environment.
+
+
+
+
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
