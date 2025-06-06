@@ -41,15 +41,23 @@ Space-based Solar Power
 
 `LyceanEM` has been developed by the SCOPES project, funded by the Net Zero Innovation Portfolio, to support the development of Space-based Solar Power (SBSP) systems. The project is a collaboration between the University of Bristol and Virtus Solis, and aims to develop the computational tools required to design and operate the gigascale antenna arrays required for SBSP. To this end the release of version 0.1.0 marks the first open release of `LyceanEM` with a CUDA engine which is capable of splitting a model across multiple GPUs with the right scripting, and simulating truly enormous models in a short space of time.
 
+**Wavefront Beamforming for Receiver**
+<iframe src="/files/SBSP_Aperturev1.html" height="800" width="1000"></iframe>
 
-<iframe src="/files/SBSP_Demo.html" height="800" width="1000"></iframe>
+**Wavefront Beamforming for Terrain**
+<iframe src="/files/SBSP_Terrainv1.html" height="800" width="1000"></iframe>
 
-The third dynamic example is one which is particularly interesting, because it shows the resultant power density for a scale model of a Space-based Solar Power system, with the receiver located just outside Walton-in-Gordano. The map tile use is drawn from the National Lidar Programme, and includes the receiving antenna array with 1 million antenna elements. This array is illuminated from a transmitting antenna array located over 5.9km away on the elevation and azimuth bearing which a notional geostationary Space-based solar power plant might be located. This example demonstrates a power transfer efficiency of 85% using Retrodirective Beamforming, compared to only 82% using Wavefront Beamforming. This equates to a total received power from the station of 191.7kW.
+**Retrodirective Beamforming for Receiver**
+<iframe src="/files/SBSP_Aperturev2.html" height="800" width="1000"></iframe>
+
+**Retrodirective Beamforming for Terrain**
+<iframe src="/files/SBSP_Terrainv2.html" height="800" width="1000"></iframe>
+
+The third dynamic example is one which is particularly interesting, and is so large it really has to be shown in four parts. This is because it shows the resultant power density for a scale model of a Space-based Solar Power system, with the receiver located just outside Walton-in-Gordano. The map tile use is drawn from the National Lidar Programme, and includes the receiving antenna array with 1 million antenna elements. This array is illuminated from a transmitting antenna array located over 5.9km away on the elevation and azimuth bearing which a notional geostationary Space-based solar power plant might be located. This example demonstrates a power transfer efficiency of 85% using Retrodirective Beamforming, compared to only 82% using Wavefront Beamforming. This equates to a total received power from the station of 191.7kW.
 
 The transmitter was specified as a circular antenna array with a diameter of 34.4m with 250,000 elements. The received power at the receiver based upon propagation from the transmitter through the lower atmosphere, with comparison of three different beamforming schemes was simulated in under six hours, an impressive feat for a general model coping with $` 2.5\times10^{11}`$ independant paths in a complex environment.
 
-
-
+This is a significant step forward in the development of LyceanEM, and demonstrates the potential of the software to support the development of Space-based Solar Power systems. The next steps will be to continue to improve the computational efficiency and scalability of LyceanEM, and to add more features and functions to support a wider range of applications.
 
 
 <script src="https://utteranc.es/client.js"
