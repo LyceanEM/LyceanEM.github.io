@@ -10,13 +10,13 @@ tags:
 ---
 
 
-I'm delighted to announce the version 0.1.0 release of `LyceanEM`. The support of the Net Zero Innovation Portfolio has allowed us to complete the first major release of our development roadmap. This includes :
+I'm delighted to announce the version 0.1.0 release of [LyceanEM](https://documentation.lyceanem.com/en/latest/). The support of the Net Zero Innovation Portfolio has allowed us to complete the first major release of our development roadmap. This includes :
 
-Computational efficiency and scalability: The computational efficiency of LyceanEM has been improved, and it can now be used on a wider range of hardware platforms, including desktop computers and high-performance computing (HPC) clusters with a single conda command and simplified dependencies. This will make LyceanEM more accessible to a wider range of users. This has been demonstrated for antenna arrays with up to a million antennas so far. Appropriate HPC compute should enable the modelling of antenna arrays suitable for space-based solar power and other applications with over a billion antenna elements.
+Computational efficiency and scalability: The computational efficiency of [LyceanEM](https://documentation.lyceanem.com/en/latest/) has been improved, and it can now be used on a wider range of hardware platforms, including desktop computers and high-performance computing (HPC) clusters with a single conda command and simplified dependencies. This will make [LyceanEM](https://documentation.lyceanem.com/en/latest/) more accessible to a wider range of users. This has been demonstrated for antenna arrays with up to a million antennas so far. Appropriate HPC compute should enable the modelling of antenna arrays suitable for space-based solar power and other applications with over a billion antenna elements.
 
-Core propagation engine: The core propagation engine of LyceanEM has been upgraded to include more realistic models of lossy propagation and atmospheric effects for each layer of the atmosphere. This will make LyceanEM more accurate and versatile for a wider range of applications. Atmospheric propagation models have been added to LyceanEM, including the ITU-R P.676-11 model for atmospheric absorption and rain attenuation. 
+Core propagation engine: The core propagation engine of [LyceanEM](https://documentation.lyceanem.com/en/latest/) has been upgraded to include more realistic models of lossy propagation and atmospheric effects for each layer of the atmosphere. This will make [LyceanEM](https://documentation.lyceanem.com/en/latest/) more accurate and versatile for a wider range of applications. Atmospheric propagation models have been added to [LyceanEM](https://documentation.lyceanem.com/en/latest/), including the ITU-R P.676-11 model for atmospheric absorption and rain attenuation. 
 
-Modelling fidelity: New features and functions have been added to LyceanEM that will allow users to model electromagnetic systems with greater fidelity. This includes support for importing antenna patterns and time domain sources, as well as the development of open source standards for antenna array designs, antenna patterns and field sources, and wireless power transfer.
+Modelling fidelity: New features and functions have been added to [LyceanEM](https://documentation.lyceanem.com/en/latest/) that will allow users to model electromagnetic systems with greater fidelity. This includes support for importing antenna patterns and time domain sources, as well as the development of open source standards for antenna array designs, antenna patterns and field sources, and wireless power transfer.
 
 
 
@@ -34,7 +34,7 @@ The first example is the antenna array pattern for the 10GHz conformal antenna a
 
 <iframe src="/files/example05results.html" height="800" width="1000"></iframe>
 
-The second example is the achieved maximum beamformed directivity pattern for the same antenna array and [example 05](https://documentation.lyceanem.com/en/latest/auto_examples/05_array_beamforming.html). This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achieved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of LyceanEM for assessing the overall antenna array performance in terms of controllable directive gain.
+The second example is the achieved maximum beamformed directivity pattern for the same antenna array and [example 05](https://documentation.lyceanem.com/en/latest/auto_examples/05_array_beamforming.html). This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achieved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of [LyceanEM](https://documentation.lyceanem.com/en/latest/) for assessing the overall antenna array performance in terms of controllable directive gain.
 
 Space-based Solar Power
 -------------------------
@@ -57,7 +57,7 @@ The third dynamic example is one which is particularly interesting, and is so la
 
 The transmitter was specified as a circular antenna array with a diameter of 34.4m with 250,000 elements. The received power at the receiver based upon propagation from the transmitter through the lower atmosphere, with comparison of three different beamforming schemes was simulated in under six hours, an impressive feat for a general model coping with $2.5\times10^{11}$ independent paths in a complex environment.
 
-This is a significant step forward in the development of LyceanEM, and demonstrates the potential of the software to support the development of Space-based Solar Power systems. The next steps will be to continue to improve the computational efficiency and scalability of LyceanEM, and to add more features and functions to support a wider range of applications.
+This is a significant step forward in the development of [LyceanEM](https://documentation.lyceanem.com/en/latest/), and demonstrates the potential of the software to support the development of Space-based Solar Power systems. The next steps will be to continue to improve the computational efficiency and scalability of [LyceanEM](https://documentation.lyceanem.com/en/latest/), and to add more features and functions to support a wider range of applications.
 
 
 <script src="https://utteranc.es/client.js"
