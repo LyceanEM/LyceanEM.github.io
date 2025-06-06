@@ -30,11 +30,11 @@ In addition, the benefit of a website like this is that I can embed the resultin
 
 <iframe src="/files/example02results.html" height="800" width="1000"></iframe>
 
-The first example is the antenna array pattern for the 10GHz conformal antenna array mounted on the demo UAV and drawn from example 02. This shows the resultant antenna array pattern without any beamforming in particular. 
+The first example is the antenna array pattern for the 10GHz conformal antenna array mounted on the demo UAV and drawn from [example 02](https://documentation.lyceanem.com/en/latest/auto_examples/02_coherently_polarised_array.html). This shows the resultant antenna array pattern without any beamforming in particular. 
 
 <iframe src="/files/example05results.html" height="800" width="1000"></iframe>
 
-The second example is the achieved maximum beamformed directivity pattern for the same antenna array. This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achiveved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of LyceanEM for assessing the overall antenna array performance in terms of controllable directive gain.
+The second example is the achieved maximum beamformed directivity pattern for the same antenna array and [example 05](https://documentation.lyceanem.com/en/latest/auto_examples/05_array_beamforming.html). This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achieved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of LyceanEM for assessing the overall antenna array performance in terms of controllable directive gain.
 
 Space-based Solar Power
 -------------------------
