@@ -10,7 +10,7 @@ tags:
 ---
 
 
-I'm delighted to announce the version 0.1.0 release of hashtag#LyceanEM. The support of the Net Zero Innovation Portfolio has allowed us to complete the first major release of our development roadmap. This includes :
+I'm delighted to announce the version 0.1.0 release of `LyceanEM`. The support of the Net Zero Innovation Portfolio has allowed us to complete the first major release of our development roadmap. This includes :
 
 Computational efficiency and scalability: The computational efficiency of LyceanEM has been improved, and it can now be used on a wider range of hardware platforms, including desktop computers and high-performance computing (HPC) clusters with a single conda command and simplified dependencies. This will make LyceanEM more accessible to a wider range of users. This has been demonstrated for antenna arrays with up to a million antennas so far. Appropriate HPC compute should enable the modelling of antenna arrays suitable for space-based solar power and other applications with over a billion antenna elements.
 
@@ -34,7 +34,7 @@ The first example is the antenna array pattern for the 10GHz conformal antenna a
 
 <iframe src="/files/example05results.html" height="800" width="1000"></iframe>
 
-The second example is the achived maximum beamformed directivity pattern for the same antenna array. This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achiveved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of LyceanEM for assessing the overall antenna array performance in terms of controllable directive gain.
+The second example is the achieved maximum beamformed directivity pattern for the same antenna array. This can be achieved with the use of a function call to predict the antenna element patterns for the demo conformal array, then a second function call to beamform the resultant patterns with a number of different algorithms. The resultant pattern of achiveved directivity at each command angle can then be plotted. This gives an excellent overview of the capability of LyceanEM for assessing the overall antenna array performance in terms of controllable directive gain.
 
 Space-based Solar Power
 -------------------------
@@ -55,7 +55,7 @@ Space-based Solar Power
 
 The third dynamic example is one which is particularly interesting, and is so large it really has to be shown in four parts. This is because it shows the resultant power density for a scale model of a Space-based Solar Power system, with the receiver located just outside Walton-in-Gordano. The map tile use is drawn from the National Lidar Programme, and includes the receiving antenna array with 1 million antenna elements. This array is illuminated from a transmitting antenna array located over 5.9km away on the elevation and azimuth bearing which a notional geostationary Space-based solar power plant might be located. This example demonstrates a power transfer efficiency of 85% using Retrodirective Beamforming, compared to only 82% using Wavefront Beamforming. This equates to a total received power from the station of 191.7kW.
 
-The transmitter was specified as a circular antenna array with a diameter of 34.4m with 250,000 elements. The received power at the receiver based upon propagation from the transmitter through the lower atmosphere, with comparison of three different beamforming schemes was simulated in under six hours, an impressive feat for a general model coping with $` 2.5\times10^{11}`$ independant paths in a complex environment.
+The transmitter was specified as a circular antenna array with a diameter of 34.4m with 250,000 elements. The received power at the receiver based upon propagation from the transmitter through the lower atmosphere, with comparison of three different beamforming schemes was simulated in under six hours, an impressive feat for a general model coping with \(2.5\times10^{11}\) independent paths in a complex environment.
 
 This is a significant step forward in the development of LyceanEM, and demonstrates the potential of the software to support the development of Space-based Solar Power systems. The next steps will be to continue to improve the computational efficiency and scalability of LyceanEM, and to add more features and functions to support a wider range of applications.
 
