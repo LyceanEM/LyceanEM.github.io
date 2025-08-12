@@ -1,5 +1,5 @@
 ---
-title: "LyceanEM: GigaScale Electromagnetics for Beamforming and System Planning"
+title: "Mechanical Vibrations on a Deployable Nanosatellite Antenna: SAR Performance Analysis"
 collection: publications
 permalink: /publication/2024-04-26-Mechanical-Vibrations-on-a-Deployable-Nanosatellite-Antenna-SAR-Performance-Analysis
 excerpt: 'The mechanical vibrations of a high-strain glass-fibre composite deployable X-band synthetic aperture radar (SAR) antenna structure are investigated using a finite element method. The antenna is approximately 2 m×0.3 m , and exhibits natural frequencies at 2.8 Hz and 7.6 Hz. The radiation patterns for a reflectarray formed from the structure are calculated using a ray-tracing approach for the nominal and mechanically deformed cases. The mechanically deformed antenna pattern is defocused, and a SAR system model shows this reduces the signal-to-noise ratio of a point scattering target by approximately 6 dB.'
