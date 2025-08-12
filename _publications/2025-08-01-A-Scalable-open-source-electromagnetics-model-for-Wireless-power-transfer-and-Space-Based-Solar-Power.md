@@ -1,5 +1,5 @@
 ---
-title: "Rapid Virtual Prototyping for Cubesat Scale Deployable Reflector Antennas"
+title: "A Scalable open-source electromagnetics model for Wireless power transfer and Space-Based Solar Power"
 collection: publications
 permalink: /publication/2025-08-01-A-Scalable-open-source-electromagnetics-model-for-Wireless-power-transfer-and-Space-Based-Solar-Power
 excerpt: 'Space-based solar power has been proposed as early as the 1960s as a source of reliable and clean energy. Due to reductions in the cost of orbital access it has received renewed interest in recent years. A practical challenge to the deployment of these systems is the requirement for ultra-large scale antenna arrays for wireless power transfer at scale, with proposed GW scale systems with antenna array diameters on the order of 2km, with billions of antenna elements. In this paper a development of the Rayleigh-Sommerfeld Diffraction Integral is introduced together with CUDA accelerated ray tracing for flexible modelling. A simplified parallel antenna array model is introduced at 10GHz demonstrating the effectiveness of different beamforming algorithms, together with preliminary results of a larger array scenario for wireless power transfer over 5.9km to a receiving array in a 5km square map tile.'
