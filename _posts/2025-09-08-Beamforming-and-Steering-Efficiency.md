@@ -8,6 +8,7 @@ tags:
   - Beamforming
   - LyceanEM
 ---
+
 Comparing the performance of different antenna array designs and beamforming methods can be challenging, especially when conformal antenna arrays are also considered in the design arena. The boresight gain and half power beamwidth are often used to compare antenna arrays and antenna designs, and the ideal figures are easy to calculate for a planar aperture at a given frequency. However, this tells us little about the performance of the antenna array away from boresight, and is of limited use for conformal antenna arrays. Quite a number of years ago I came across a very useful concept called steering efficiency, and the steering efficiency product, which can be used to compare different antenna array architectures and beamforming methods, accounting for different frequencies and array sizes.
 
 
@@ -42,7 +43,7 @@ This can be demonstrated using the LyceanEM [Array Beamforming](https://document
 **Figure 3: Achieved Gain for a 10GHz Conformal Antenna Array mounted on a UAV.**
 
 <video width="800" height="1000" controls loop="" muted = "" autoplay="">
-    <source src="..%2Ffiles%Beamforming_Animation.mp4" type="video/mp4">
+    <source src="https://github.com/LyceanEM/LyceanEM.github.io/raw/refs/heads/master/files/Beamforming_Animation.mp4" type="video/mp4">
 </video>
 
 **Figure 4: Animated Achieved Gain for a 10GHz Conformal Antenna Array mounted on a UAV, scanning from -90 to 90 in Azimuth**
