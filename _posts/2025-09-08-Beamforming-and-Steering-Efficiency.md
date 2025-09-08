@@ -11,12 +11,11 @@ tags:
 
 Comparing the performance of different antenna array designs and beamforming methods can be challenging, especially when conformal antenna arrays are also considered in the design arena. The boresight gain and half power beamwidth are often used to compare antenna arrays and antenna designs, and the ideal figures are easy to calculate for a planar aperture at a given frequency. However, this tells us little about the performance of the antenna array away from boresight, and is of limited use for conformal antenna arrays. Quite a number of years ago I came across a very useful concept called steering efficiency, and the steering efficiency product, which can be used to compare different antenna array architectures and beamforming methods, accounting for different frequencies and array sizes.
 
-
 ----------------------
 
 
 Beamforming and Steering Efficiency in Phased Array Antennas
-------------------------------------------------------------
+-------------------------------------------------------------
 
 The maximum potential gain of an antenna array is given by the effective area of the array aperture and the wavelength of interest, as discussed by
 Hannan in the `Element-Gain Paradox for a Phased-Array Antenna` [1]. This can be combined with the ideal element pattern for an antenna array element  and the direction of interest in order to calculate the maximum achievable gain for an antenna array at any angle $g_{max}(\theta,\phi)$, as shown in **Figure 1**.
@@ -64,12 +63,7 @@ While this does give a useful overview of the antenna array performance, it is n
 
 **Figure 4: Animated Achieved Gain for a 10GHz Conformal Antenna Array mounted on a UAV, scanning from -90 to 90 in Azimuth**
 
-
-
-
-
 [1]  P. Hannan, "The element-gain paradox for a phased-array antenna," in IEEE Transactions on Antennas and Propagation, vol. 12, no. 4, pp. 423-433, July 1964, doi: [10.1109/TAP.1964.1138237](https://ieeexplore-ieee-org.bris.idm.oclc.org/document/1138237)
-
 [2]: J. G. Marin and J. Hesselbarth, "Figure of Merit for Beam-Steering Antennas," 2019 12th German Microwave Conference (GeMiC), Stuttgart, Germany, 2019, pp. 44-47, doi: [10.23919/GEMIC.2019.8698122](https://ieeexplore-ieee-org.bris.idm.oclc.org/document/8698122) 
 
 
