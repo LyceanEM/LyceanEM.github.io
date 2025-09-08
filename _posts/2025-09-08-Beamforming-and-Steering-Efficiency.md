@@ -44,7 +44,7 @@ Thus an antenna array which can beamform in any direction without scan loss woul
 ![Steering Coverage](/images/coverage_pattern.png)
 **Figure 2: Field of View (Green) for an antenna array**
 
-While steering efficiency is a useful metric in it's own right, it does not account for the overall gain of the antenna array. This is where the steering efficiency product $\eta_{sep}$ comes into play. This metric combines the steering efficiency with the achieved gain of the antenna array at boresight as a fraction of the maximum possible gain (**aperture efficiency** $\eta_{ap}$), allowing a more comprehensive comparison of different antenna array designs and beamforming methods.
+While steering efficiency is a useful metric in it's own right, it does not account for the overall gain of the antenna array. This is where the steering efficiency product $\eta_{sep}$ comes into play. This metric combines the steering efficiency with the achieved gain of the antenna array at boresight as a fraction of the maximum possible gain (**aperture efficiency** $\eta_{ap}$), allowing a more comprehensive comparison of different antenna array designs and beamforming methods. Strictly $\eta_{ap}$ is defined as the ratio of the effective aperture of an antenna array to the physical aperture, and for realistic antenna arrays is always less than 1. Some example antenna arrays and horn antennas considered in [2] range in $\eta_{ap}$ from 0.18 to 0.64.  
 
 $\eta_{sep}=\eta_{ap}\dfrac{FOV}{4\pi}$
 
