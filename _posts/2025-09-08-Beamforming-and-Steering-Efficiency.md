@@ -14,13 +14,14 @@ Comparing the performance of different antenna array designs and beamforming met
 
 ----------------------
 
+
 Beamforming and Steering Efficiency in Phased Array Antennas
 ------------------------------------------------------------
 
 The maximum potential gain of an antenna array is given by the effective area of the array aperture and the wavelength of interest, as discussed by
 Hannan in the `Element-Gain Paradox for a Phased-Array Antenna` [1]. This can be combined with the ideal element pattern for an antenna array element  and the direction of interest in order to calculate the maximum achievable gain for an antenna array at any angle $g_{max}(\theta,\phi)$, as shown in **Figure 1**.
 
-![Ideal Array Element Pattern](../images/cos_pattern.png)
+![Ideal Array Element Pattern](/images/cos_pattern.png)
 **Figure 1: Ideal Array Element Pattern for an array element.**
 
 What this means for beamforming, is that for a planar antenna array there is a fundamental limit on how much gain can be achieved at any angle. This can be addressed with different approaches in antenna design, but fundamentally these are based upon extending the array from a planar surface to a more 3D structure. 
@@ -53,7 +54,6 @@ This can be demonstrated using the LyceanEM [Array Beamforming](https://document
 
 
 [1]  P. Hannan, "The element-gain paradox for a phased-array antenna," in IEEE Transactions on Antennas and Propagation, vol. 12, no. 4, pp. 423-433, July 1964, doi: [10.1109/TAP.1964.1138237](https://ieeexplore-ieee-org.bris.idm.oclc.org/document/1138237)
-
 
 [2]: J. G. Marin and J. Hesselbarth, "Figure of Merit for Beam-Steering Antennas," 2019 12th German Microwave Conference (GeMiC), Stuttgart, Germany, 2019, pp. 44-47, doi: [10.23919/GEMIC.2019.8698122](https://ieeexplore-ieee-org.bris.idm.oclc.org/document/8698122) 
 
