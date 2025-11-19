@@ -64,6 +64,7 @@ While this does give a useful overview of the antenna array performance, it is n
 **Figure 4: Animated Achieved Gain for a 10GHz Conformal Antenna Array mounted on a UAV, scanning from -90 to 90 in Azimuth**
 
 [1]  P. Hannan, "The element-gain paradox for a phased-array antenna," in IEEE Transactions on Antennas and Propagation, vol. 12, no. 4, pp. 423-433, July 1964, doi: [10.1109/TAP.1964.1138237](https://ieeexplore-ieee-org.bris.idm.oclc.org/document/1138237)
+
 [2]: J. G. Marin and J. Hesselbarth, "Figure of Merit for Beam-Steering Antennas," 2019 12th German Microwave Conference (GeMiC), Stuttgart, Germany, 2019, pp. 44-47, doi: [10.23919/GEMIC.2019.8698122](https://ieeexplore-ieee-org.bris.idm.oclc.org/document/8698122) 
 
 

@@ -29,7 +29,7 @@ The workshop will be held on the 4th of May 2023 in Bristol, UK
 
 This workshop is aimed at academics, industry reps (both support companies and space based solar power groups), and policymakers. It will allow the international community, developing a diverse range of concepts, to network and discuss attractive new technologies, and potential areas of collaboration. 
 
-[Workshop and Resources](https://www.bristol.ac.uk/engineering/research/csn/news/2023/tim-pelham-power-of-the-sun-workshop.html)
+[Workshop and Resources](https://www.bristol.ac.uk/research/groups/csn/news/2023/tim-pelham-power-of-the-sun-workshop.html)
 
 <script src="https://utteranc.es/client.js"
         repo="LyceanEM/LyceanEM.github.io"
