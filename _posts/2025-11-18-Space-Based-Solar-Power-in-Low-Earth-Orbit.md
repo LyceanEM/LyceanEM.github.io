@@ -19,18 +19,18 @@ Space-based Solar Power in Low Earth Orbit
 -------------------------------------------------------------
 
 ## Introduction and Method
-In order to examine the potential for space-based solar power an analytical approach was used to show the design constraints at X-band in terms of satellite transmitter size, receiver size, and orbit, based upon Goubau’s formula for maximum RF transfer efficiency [^1].
+In order to examine the potential for space-based solar power an analytical approach was used to show the design constraints at X-band in terms of satellite transmitter size, receiver size, and orbit, based upon Goubau’s formula for maximum RF transfer efficiency [1].
 
 $$\eta=1-e^{-(\dfrac{\sqrt(A_{t}A_{r})}{\lambda D})^{2}}$$
 
-A maximum power density figure of 240W/m2 is used to calculate maximum transmit power including atmospheric and conversion losses [^2].
+A maximum power density figure of 240W/m2 is used to calculate maximum transmit power including atmospheric and conversion losses [2].
 
-![XBandGEOReplacementPowerCapacity.png](../images/XBandGEOReplacementPowerCapacity.png)
+![XBandGEOReplacementPowerCapacity.png](/images/XBandGEOReplacementPowerCapacity.png)
 Figure 1 : Generating Capacity for a Space-based Solar Power station in geosynchronous orbit based on transmitter and receiver diameter, with RF transfer efficiency contours.
 
-This comparison is shown for both a large scale geosynchronous power station (Figure 1), and for a notional station in low earth orbit at an altitude of 480km (Figure 2). The Deployable Power Generation and Distribution System produces 800kW using JP-8 fuel [^3]. An equivalent space-based solar power system from Low Earth Orbit (480km) could generate 1MW with 10% of the installed weight, and no fuel requirements based on demonstrated rectenna array designs [^2]. This would require a rectanna array 75m across, just over half a football field, with a transmitter in orbit 375m in diameter. At X band this implies an antenna array with over 490 million antenna elements. LyceanEM was used to simulate the illuminated power for 10 sample points from the centre of the receiver to 56km away. Retrodirective beamforming was used to focus the power delivery beam [^4].
+This comparison is shown for both a large scale geosynchronous power station (Figure 1), and for a notional station in low earth orbit at an altitude of 480km (Figure 2). The Deployable Power Generation and Distribution System produces 800kW using JP-8 fuel [3]. An equivalent space-based solar power system from Low Earth Orbit (480km) could generate 1MW with 10% of the installed weight, and no fuel requirements based on demonstrated rectenna array designs [2]. This would require a rectanna array 75m across, just over half a football field, with a transmitter in orbit 375m in diameter. At X band this implies an antenna array with over 490 million antenna elements. LyceanEM was used to simulate the illuminated power for 10 sample points from the centre of the receiver to 56km away. Retrodirective beamforming was used to focus the power delivery beam [4].
 
-![XBandLEOReplacementPowerCapacity.png](../images/XBandLEOReplacementPowerCapacity.png)
+![XBandLEOReplacementPowerCapacity.png](/images/XBandLEOReplacementPowerCapacity.png)
 Figure 2 : Generating Capacity for a Space-based Solar Power station in low earth orbit based on transmitter and receiver diameter, with RF transfer efficiency contours.
 
 ## Results
@@ -47,7 +47,7 @@ Table 1 : Simulation size and runtime for LEO scale SBSP satellite, with diamete
 
 
 
-![scaledmodelcomparison.png](../images/HiResComparisonScaled.png)
+![scaledmodelcomparison.png](/images/HiResComparisonScaled.png)
 Figure 3 : Power Density for LEO SBSP Satellite (dots), and scaled comparison (lines).
 
 
@@ -56,9 +56,9 @@ The resultant power densities at the surface were used to calculate the potentia
 $SNR = EIRP+G_{R}+\sigma_{b} - 20 \log_{10} (R_{T}R_{R}) -20 \log_{10}(\dfrac{4\pi f}{c}) - 10 \log_{10}(kT_{0}B)- F - L$
 
 
-![PassiveRadarRangeSNR.png](../images/PassiveRadarRangeSNR.png)
+![PassiveRadarRangeSNR.png](/images/PassiveRadarRangeSNR.png)
 
-Passive Radar has been demonstrated at X-band with illumination power density of -82dBW/m2, -127dBW/m2 at L band [^5][^6].
+Passive Radar has been demonstrated at X-band with illumination power density of -82dBW/m2, -127dBW/m2 at L band [5][6].
 
 
 ## Conclusions
@@ -71,17 +71,17 @@ The initial modelling both demonstrates the parameter space for orbital power st
 [SBSPforPowerNavigationandSensing.pdf](../files/SBSPforPowerNavigationandSensing.pdf)
 
 ## References
-[^1] Microwave Power Transmission from an Orbiting Solar Power Station, G. Goubau, Journal of Microwave Power, 1970
+[1] Microwave Power Transmission from an Orbiting Solar Power Station, G. Goubau, Journal of Microwave Power, 1970
 
-[^2] Deployable Power Generation and Distribution System (DPGDS), PD Power Systems, https://pdpowersystems.com/mobile-power-systems/
+[2] Deployable Power Generation and Distribution System (DPGDS), PD Power Systems, https://pdpowersystems.com/mobile-power-systems/
 
-[^3] A Dual Polarization Microwave Power Transmission System for Microwave Propelled Airship Experiment, Y. Fujino, M. Fujita, N. Kaya, S. Kunimi, M. Ishii, N. Ogihara, N. Kusaka, S. Ida, Proceedings of ISAP 96, 1996, Japan
+[3] A Dual Polarization Microwave Power Transmission System for Microwave Propelled Airship Experiment, Y. Fujino, M. Fujita, N. Kaya, S. Kunimi, M. Ishii, N. Ogihara, N. Kusaka, S. Ida, Proceedings of ISAP 96, 1996, Japan
 
-[^4] Microwave Power Transfer With Optimal Number of Rectenna Arrays for Midrange Applications, S. -T. Khang, D. -J. Lee, I. -J. Hwang, T. -D. Yeo and J. -W. Yu, IEEE Antennas and Wireless Propagation Letters, vol. 17, no. 1, pp. 155-159, Jan. 2018, doi: 10.1109/LAWP.2017.2778507
+[4] Microwave Power Transfer With Optimal Number of Rectenna Arrays for Midrange Applications, S. -T. Khang, D. -J. Lee, I. -J. Hwang, T. -D. Yeo and J. -W. Yu, IEEE Antennas and Wireless Propagation Letters, vol. 17, no. 1, pp. 155-159, Jan. 2018, doi: 10.1109/LAWP.2017.2778507
 
-[^5] An Introduction to Passive Radar, H. D. Griffiths, C. J. Baker, ISBN-13 : 978-1-63081-036-8, 2017
+[5] An Introduction to Passive Radar, H. D. Griffiths, C. J. Baker, ISBN-13 : 978-1-63081-036-8, 2017
 
-[^6] Starlink-Based Passive Radar for Earth's Surface Imaging: First Experimental Results, P. Gomez-del-Hoyo and P. Samczynski, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 13949-13965, 2024, 
+[6] Starlink-Based Passive Radar for Earth's Surface Imaging: First Experimental Results, P. Gomez-del-Hoyo and P. Samczynski, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 13949-13965, 2024, 
 
 
 
