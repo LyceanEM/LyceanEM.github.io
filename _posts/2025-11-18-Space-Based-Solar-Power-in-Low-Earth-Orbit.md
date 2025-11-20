@@ -68,7 +68,7 @@ The initial modelling both demonstrates the parameter space for orbital power st
 
 
 
-[SBSPforPowerNavigationandSensing.pdf](../files/SBSPforPowerNavigationandSensing.pdf)
+[SBSPforPowerNavigationandSensing](/files/SBSPforPowerNavigationandSensing.pdf)
 
 ## References
 [1] Microwave Power Transmission from an Orbiting Solar Power Station, G. Goubau, Journal of Microwave Power, 1970
