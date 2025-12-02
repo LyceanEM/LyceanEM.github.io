@@ -26,11 +26,13 @@ $$\eta=1-e^{-(\dfrac{\sqrt(A_{t}A_{r})}{\lambda D})^{2}}$$
 A maximum power density figure of 240W/m2 is used to calculate maximum transmit power including atmospheric and conversion losses [^2].
 
 ![XBandGEOReplacementPowerCapacity.png](../images/XBandGEOReplacementPowerCapacity.png)
+
 Figure 1 : Generating Capacity for a Space-based Solar Power station in geosynchronous orbit based on transmitter and receiver diameter, with RF transfer efficiency contours.
 
 This comparison is shown for both a large scale geosynchronous power station (Figure 1), and for a notional station in low earth orbit at an altitude of 480km (Figure 2). The Deployable Power Generation and Distribution System produces 800kW using JP-8 fuel [^3]. An equivalent space-based solar power system from Low Earth Orbit (480km) could generate 1MW with 10% of the installed weight, and no fuel requirements based on demonstrated rectenna array designs [^2]. This would require a rectanna array 75m across, just over half a football field, with a transmitter in orbit 375m in diameter. At X band this implies an antenna array with over 490 million antenna elements. LyceanEM was used to simulate the illuminated power for 10 sample points from the centre of the receiver to 56km away. Retrodirective beamforming was used to focus the power delivery beam [^4].
 
 ![XBandLEOReplacementPowerCapacity.png](../images/XBandLEOReplacementPowerCapacity.png)
+
 Figure 2 : Generating Capacity for a Space-based Solar Power station in low earth orbit based on transmitter and receiver diameter, with RF transfer efficiency contours.
 
 ## Results
@@ -48,6 +50,7 @@ Table 1 : Simulation size and runtime for LEO scale SBSP satellite, with diamete
 
 
 ![scaledmodelcomparison.png](../images/HiResComparisonScaled.png)
+
 Figure 3 : Power Density for LEO SBSP Satellite (dots), and scaled comparison (lines).
 
 
